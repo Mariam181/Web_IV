@@ -50,12 +50,25 @@
         
     }
     
-    .post h5 {
+    .post h4 {
         margin: 0;
     }
 
     .post p {
         margin: 0;
+    }
+
+    .sidebar {
+        width: 70%;
+        height: auto;
+        display: grid;
+        justify-items: center;
+        margin: 0 auto;
+        margin-top: 40px;
+    }
+
+    .post2 {
+        margin-bottom: 30px;
     }
 
     .footer p {
